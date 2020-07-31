@@ -17,7 +17,7 @@ body{
 	background-color: var(--first-color);
 	padding-top: 4rem;
 	display: grid;
-	justify-items: center;
+	justify-content: center;
 /* justify-items is used to center grid i vertically */
 }
 
