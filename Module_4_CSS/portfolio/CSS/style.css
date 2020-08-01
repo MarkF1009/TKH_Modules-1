@@ -1,3 +1,10 @@
+grid {
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+
+grid-gap: 1rem;
+}
+
 :root {
 --first-color: #dbe4e8;
 --second-color: #f5f5f5;
@@ -19,6 +26,7 @@ body{
 	display: grid;
 	justify-items:center;
 /* justify-items is used to center grid i vertically */
+}
 
 .topheader {
 	display: flex;
@@ -106,7 +114,7 @@ a:hover {
 	width: calc(80vw + 2rem);
 }
 
-.goals{
+.goals {
 	width: 45vw;
 	padding: 2rem;
 	border-radius: 6px;
@@ -115,7 +123,7 @@ a:hover {
 	box-shadow: var(--shadow);
 }
 
-.skills{
+.skills {
 	width: 35vw;
 	padding: 2rem;
 	border-radius: 6px;
@@ -125,7 +133,7 @@ a:hover {
 
 /*Projects*/
 
-.projects{
+.projects {
 	display: flex;
 	flex-flow: row wrap;
 	width: 80vw;
@@ -185,7 +193,7 @@ input{
 	min-width: 30vw;
 	margin-bottom: 15px;
 	margin-top: 5px;
-	padding: .5 rem;
+	padding: .5rem;
 }
 
 input[type=submit] {
