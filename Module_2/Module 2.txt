@@ -1,0 +1,32 @@
+Tinesha N. Conway
+July 19, 2020
+Module 2, Part 3
+
+
+What is Git and how is it different from GitHub?
+
+Git is an Open Source Control System.  It was created by Linus Torvalds in 2005 and helped developers have a full code history at their fingertips where other control systems such as SVN and CVS did not.
+
+Github is a “Cloud Based Hosting Service” that allows you to manage Git, its repositories or repos.  It is also designed to help you manage or keep track of changes made to Git.
+
+Why use the terminal?
+
+The terminal allows lots of setting and structure options that allow a great deal of control over appearance and each of the profiles—by using PowerShell.
+
+The terminal is also known as the CLI or the Command Line Interface; it provides access to the interface and allows better access to the actual power of the computer—better than the GUI, Graphical User Interface; which uses pictures to help the average user to navigate the screen better.
+
+Explain 3 benefits of Version Control.  (In your own words.)
+
+Version Control is key for documents needed to go thru a redrafting and electronic docs because they can simply be modified by alternate users.
+
+Version Control Benefits are:
+
+a. A great way of keeping track of building applications by being able to id which version is in development.
+
+b. Allows you to merge changes, codes, files and assets; compare files and id differences—if needed before committing any code.
+
+c. Helps you to keep track of every team member and what version they are working on.
+
+
+
+
